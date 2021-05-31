@@ -11,8 +11,8 @@ Since I didn’t take this class too long ago, most of the information was still
 [Enhancement One Repository](https://github.com/rdiaz053/CS-499/tree/Software-Engineering-Design)
 
 **Portfolio Links**<br>
-* [Professional Self-Assessment](https://github.com/rdiaz053/CS-499/blob/gh-pages/index.html)<br>
-* [Refinement Plan & Code Review](https://github.com/rdiaz053/CS-499/blob/gh-pages/CodeReview.html)<br>
-* [Enhancement One](https://github.com/rdiaz053/CS-499/blob/gh-pages/EnhancementOne.html)<br>
-* [Enhancement Two](https://github.com/rdiaz053/CS-499/blob/gh-pages/EnhancementTwo.html)<br>
-* [Enhancement Three](https://github.com/rdiaz053/CS-499/blob/gh-pages/EnhancementThree.html)
+* [Professional Self-Assessment](https://rdiaz053.github.io/CS-499/index.html)<br>
+* [Refinement Plan & Code Review](https://rdiaz053.github.io/CS-499/CodeReview.html)<br>
+* [Enhancement One](https://rdiaz053.github.io/CS-499/EnhancementOne.html)<br>
+* [Enhancement Two](https://rdiaz053.github.io/CS-499/EnhancementTwo.html)<br>
+* [Enhancement Three](https://rdiaz053.github.io/CS-499/EnhancementThree.html)
