@@ -1,0 +1,13 @@
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\bin\Debug\EnhancementTwo.exe.config
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\bin\Debug\EnhancementTwo.exe
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\bin\Debug\EnhancementTwo.pdb
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\bin\Debug\EnhancementTwo.xml
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\obj\Debug\EnhancementTwo.vbprojAssemblyReference.cache
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\obj\Debug\EnhancementTwo.Form1.resources
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\obj\Debug\EnhancementTwo.Resources.resources
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\obj\Debug\EnhancementTwo.vbproj.GenerateResource.cache
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\obj\Debug\EnhancementTwo.vbproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\obj\Debug\EnhancementTwo.exe
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\obj\Debug\EnhancementTwo.xml
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\obj\Debug\EnhancementTwo.pdb
+C:\Users\R\source\repos\EnhancementTwo\EnhancementTwo\obj\Debug\EnhancementTwo.Form2.resources

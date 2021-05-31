@@ -1,0 +1,6 @@
+Kevin	Gorilla	9	Big
+Malone	Gorilla	10	Huge
+Beef	Flamingo	3	Healthy
+Wheels	Rhino	7	Large
+Moose	Tiger	4	Sick
+King	Penguin	5	Healthy
