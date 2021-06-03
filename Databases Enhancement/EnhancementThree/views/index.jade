@@ -1,0 +1,144 @@
+extends layout
+
+block content
+  h1= 'CS-499 Enhancement Three'
+  p This webpage connects to a MongoDB database. Please import data from 'DAT220_Data.csv' into Database 'enh3', Collection 'customers' using the following command:
+  p mongoimport --type csv -d enh3 -c customers --headerline --drop DAT220_Data.csv
+  br
+  br
+  // Wrapper
+  #wrapper
+
+    // USER INFO
+    #userInfo
+      h2 Customer Info
+      p
+        strong Name:
+        |  <span id='userInfoName'></span>
+        br
+        strong Age:
+        |  <span id='userInfoAge'></span>
+        br
+        strong City:
+        |  <span id='userInfoCity'></span>
+        br
+        strong County:
+        |  <span id='userInfoCounty'></span>
+        br
+        strong State:
+        |  <span id='userInfoState'></span>
+        br
+        strong Zip Code:
+        |  <span id='userInfoZip'></span>
+        br
+        br
+        br
+        strong Restaurant Spending:
+        |  <span id='userInfoResSpend'></span>
+        br
+        strong Restaurant Visits:
+        |  <span id='userInfoResVisit'></span>
+        br
+        br
+        strong Webstore Spending:
+        |  <span id='userInfoWebSpend'></span>
+        br
+        strong Webstore Visits:
+        |  <span id='userInfoWebVisit'></span>
+        br
+        br
+        strong Third Party Spending:
+        |  <span id='userInfo3rdSpend'></span>
+        br
+        strong Third Party Visits:
+        |  <span id='userInfo3rdVisit'></span>
+        br
+        br
+        //strong ID:
+        //|  <span id='userInfoID'></span>
+        //br
+        //br
+        button#btnUpdate Update
+        button#btnDelete Delete
+    // /USER INFO
+
+    // USER LIST
+    h2 Customer List <span id='userCount'></span>
+    #userList
+      table
+        thead
+          th Details
+          <th id="first">First Name ⬧</th>
+          <th id="last">Last Name ⬧</th>
+          <th id="age">Age ⬧</th>
+          <th id="city">City ⬧</th>
+          <th id="county">County ⬧</th>
+          <th id="state">State ⬧</th>
+          <th id="zip">Zip Code ⬧</th>
+          th Delete?
+        tbody
+    // /USER LIST
+
+    // ADD USER
+    #addUser
+      h2 Add/Update Customer
+      fieldset
+        br
+        <span>First Name: </span> 
+        input#inputFirstName(type='text', placeholder='First Name')
+        br
+        br
+        <span>Last Name: </span> 
+        input#inputLastName(type='text', placeholder='Last Name')
+        br
+        br
+        <span>Age: </span> 
+        input#inputAge(type='text', placeholder='Age')
+        br
+        br
+        <span>City: </span> 
+        input#inputCity(type='text', placeholder='City')
+        br
+        br
+        <span>County: </span> 
+        input#inputCounty(type='text', placeholder='County')
+        br
+        br
+        <span>State: </span> 
+        input#inputState(type='text', placeholder='State')
+        br
+        br
+        <span>Zip: </span> 
+        input#inputZip(type='text', placeholder='Zip Code')
+        br
+        br
+        <span>Restaurant Spending: </span> 
+        input#inputResSpend(type='text', placeholder='Restaurant Spending')
+        br
+        br
+        <span>Restaurant Visits:   </span> 
+        input#inputResVisit(type='text', placeholder='Restaurant Visits')
+        br
+        br
+        <span>Webstore Spending: </span> 
+        input#inputWebSpend(type='text', placeholder='Webstore Spending')
+        br
+        br
+        <span>Webstore Visits:     </span> 
+        input#inputWebVisit(type='text', placeholder='Webstore Visits')
+        br
+        br
+        <span>Third Party Spending: </span> 
+        input#input3rdSpend(type='text', placeholder='Third Party Spending')
+        br
+        br
+        <span>Third Party Visits: </span> 
+        input#input3rdVisit(type='text', placeholder='Third Party Visits')
+        br
+        br
+        br
+        button#btnAddUser Add Customer
+        button#btnUpdateUser Update Existing Customer
+    // /ADD USER
+
+  // /WRAPPER
