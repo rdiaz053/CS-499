@@ -18,6 +18,7 @@ The three of these projects don’t really relate with each other, other than th
 
 ## Preparing For The Future
 
+This class and the entire Computer Science has prepared me for a future career as computer programmer but I do know that the program didn’t cover every single thing and there is always something more or new to learn. This has given me a baseline of where I am at and I can only go up from here. Prior to the Computer Science program, I already knew how to build computers and all of the hardware portions of it and this program gave me exactly what I needed which was an expansion of my knowledge into the software side of computers. 
 
 **Portfolio Links**<br>
 * [Professional Self-Assessment](https://rdiaz053.github.io/CS-499/index.html)<br>
