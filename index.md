@@ -10,6 +10,9 @@ During my time in the program, I learned a lot of vital information that will he
 
 ## Portfolio Summary
 
+Every course I have taken throughout my time in the Computer Science program has had a different impact on my knowledge that I will need to prepare myself for a job in the industry. For instance, in the Computer Science Core-BS classes, we learned things such as the role that computer science plays in the technology industry (CS-200), how to design an Android app and create a simple user interface (IT-145), or how we can use SQL to access data from databases (DAD-220). These were only a few of the classes that began my journey through the Computer Science program, but they were important to me because they gave me an idea of how the rest of the program would go on to be. 
+
+
 
 ## Preparing For The Future
 
