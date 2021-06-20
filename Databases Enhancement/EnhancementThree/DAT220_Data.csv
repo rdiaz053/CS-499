@@ -1,0 +1,501 @@
+﻿first_name,last_name,city,county,state,zip,ZIP_2,Restaurant,RES_VISITS,WEB_PURCH_YN,Webstore_Spend,WEB_VISITS,THIRD_SPEND,THIRD_VISITS,Age,Married_YN,MARR_BIN,Income
+Lenna,Paprocki,Anchorage,Anchorage,AK,99501,99,155,2,1,191,3,63,1,28,N,0,42
+Roxane,Campain,Fairbanks,Fairbanks North Star,AK,99708,99,60,1,0,0,1,0,0,49,Y,1,112
+Erick,Ferencz,Fairbanks,Fairbanks North Star,AK,99712,99,155,2,0,0,0,0,0,44,Y,1,74
+Penney,Weight,Anchorage,Anchorage,AK,99515,99,90,1,0,0,0,26,1,19,N,0,47
+Wilda,Giguere,Anchorage,Anchorage,AK,99501,99,131,3,1,223,2,0,0,25,Y,1,55
+Gail,Kitty,Anchorage,Anchorage,AK,99501,99,106,2,0,0,1,0,0,66,N,0,38
+Carin,Deleo,Little Rock,Pulaski,AR,72202,72,40,1,0,0,1,31,1,28,N,0,64
+Mattie,Poquette,Phoenix,Maricopa,AZ,85013,85,95,2,0,0,0,0,1,32,Y,1,35
+Arminda,Parvis,Phoenix,Maricopa,AZ,85017,85,111,2,0,0,1,0,1,26,Y,1,72
+Herminia,Nicolozakes,Scottsdale,Maricopa,AZ,85254,85,210,2,1,247,3,66,1,46,Y,1,62
+Christiane,Eschberger,Phoenix,Maricopa,AZ,85034,85,57,1,1,21,1,0,0,21,Y,1,33
+Helene,Rodenberger,Peoria,Maricopa,AZ,85381,85,21,1,0,0,0,0,1,20,Y,1,28
+Regenia,Kannady,Scottsdale,Maricopa,AZ,85260,85,73,1,0,0,1,49,1,25,N,0,29
+Keneth,Borgman,Phoenix,Maricopa,AZ,85012,85,19,1,0,0,1,175,3,66,N,0,72
+Elke,Sengbusch,Phoenix,Maricopa,AZ,85013,85,38,1,0,0,0,0,0,66,Y,1,53
+Iluminada,Ohms,Mesa,Maricopa,AZ,85204,85,165,1,0,0,0,0,0,66,Y,1,54
+Leota,Dilliard,San Jose,Santa Clara,CA,95111,95,49,1,0,0,1,0,0,22,Y,1,60
+Kiley,Caldarera,Los Angeles,Los Angeles,CA,90034,90,165,3,1,362,3,0,0,31,Y,1,56
+Veronika,Inouye,San Jose,Santa Clara,CA,95111,95,44,1,0,0,1,86,2,42,Y,1,68
+Rozella,Ostrosky,Camarillo,Ventura,CA,93012,93,46,1,0,0,0,0,1,20,Y,1,61
+Kanisha,Waycott,Los Angeles,Los Angeles,CA,90006,90,15,1,0,0,1,0,0,42,Y,1,53
+Shenika,Seewald,Van Nuys,Los Angeles,CA,91405,91,21,1,0,0,0,23,1,25,N,0,41
+Kallie,Blackwood,San Francisco,San Francisco,CA,94104,94,165,3,1,100,1,70,1,70,Y,1,39
+Bobbye,Rhym,San Carlos,San Mateo,CA,94070,94,81,2,1,183,1,0,1,51,Y,1,61
+Micaela,Rhymes,Concord,Contra Costa,CA,94520,94,46,1,0,0,0,0,0,40,Y,1,95
+Dominque,Dickerson,Hayward,Alameda,CA,94545,94,18,1,1,36,1,0,0,57,Y,1,64
+Stephaine,Barfield,Gardena,Los Angeles,CA,90247,90,49,1,1,27,1,49,1,29,Y,1,60
+Tammara,Wardrip,Burlingame,San Mateo,CA,94010,94,20,1,0,0,1,0,1,42,N,0,63
+Cory,Gibes,San Gabriel,Los Angeles,CA,91776,91,44,1,1,32,1,0,0,34,N,0,83
+Elvera,Benimadho,San Jose,Santa Clara,CA,95110,95,40,1,1,27,1,0,0,40,Y,1,89
+Carma,Vanheusen,San Leandro,Alameda,CA,94577,94,117,1,0,0,1,0,0,29,N,0,45
+Louisa,Cronauer,San Leandro,Alameda,CA,94577,94,38,1,1,82,2,0,1,36,Y,1,45
+Shawna,Palaspas,Thousand Oaks,Ventura,CA,91362,91,29,1,1,12,1,0,0,42,N,0,73
+Xuan,Rochin,San Mateo,San Mateo,CA,94403,94,49,1,0,0,1,0,0,60,Y,1,54
+Lindsey,Dilello,Ontario,San Bernardino,CA,91761,91,19,1,1,19,1,175,3,38,Y,1,37
+Devora,Perez,Oakland,Alameda,CA,94606,94,23,1,0,0,0,0,0,81,Y,1,33
+Sheridan,Zane,Riverside,Riverside,CA,92501,92,66,1,0,0,0,0,1,46,N,0,77
+Chau,Kitzman,Beverly Hills,Los Angeles,CA,90212,90,165,1,1,229,1,0,0,44,Y,1,60
+Kerry,Theodorov,Sacramento,Sacramento,CA,95827,95,14,1,0,0,0,0,1,38,Y,1,100
+Joesph,Degonia,Berkeley,Alameda,CA,94710,94,70,2,1,159,1,0,0,31,Y,1,87
+Stephaine,Vinning,San Francisco,San Francisco,CA,94104,94,16,1,0,0,0,0,0,23,Y,1,28
+Marguerita,Hiatt,Oakley,Contra Costa,CA,94561,94,81,2,1,55,2,0,1,20,Y,1,61
+Benton,Skursky,Gardena,Los Angeles,CA,90248,90,155,1,0,0,0,0,0,54,Y,1,52
+Merilyn,Bayless,Santa Clara,Santa Clara,CA,95054,95,165,1,0,0,0,70,1,44,Y,1,114
+Georgene,Montezuma,San Ramon,Contra Costa,CA,94583,94,63,1,0,0,0,0,0,51,N,0,108
+Melodie,Knipp,Thousand Oaks,Ventura,CA,91362,91,20,1,1,12,1,106,3,31,N,0,81
+Norah,Waymire,San Francisco,San Francisco,CA,94107,94,175,3,1,326,2,29,1,63,N,0,44
+Aliza,Baltimore,San Jose,Santa Clara,CA,95132,95,54,2,1,60,2,0,0,21,N,0,50
+Mozell,Pelkowski,South San Francisco,San Mateo,CA,94080,94,46,1,0,0,0,0,0,23,N,0,27
+Viola,Bitsuie,Northridge,Los Angeles,CA,91325,91,32,1,0,0,0,0,0,66,N,0,46
+Rima,Bevelacqua,Gardena,Los Angeles,CA,90248,90,165,2,1,375,2,100,1,31,Y,1,88
+Glendora,Sarbacher,Rohnert Park,Sonoma,CA,94928,94,20,1,1,33,1,95,1,21,N,0,59
+Cristy,Lother,Escondido,San Diego,CA,92025,92,31,1,0,0,0,124,2,42,Y,1,48
+Tiera,Frankel,El Monte,Los Angeles,CA,91731,91,95,1,1,191,1,117,2,23,Y,1,50
+Lashon,Vizarro,Roseville,Placer,CA,95661,95,26,1,0,0,0,0,0,38,Y,1,64
+Peggie,Sturiale,El Cajon,San Diego,CA,92020,92,49,1,0,0,0,0,1,44,N,0,104
+Alyce,Arias,Stockton,San Joaquin,CA,95207,95,124,1,1,306,1,0,0,60,Y,1,53
+Charlene,Hamilton,Santa Rosa,Sonoma,CA,95407,95,38,1,0,0,1,0,1,32,N,0,72
+Stevie,Westerbeck,Costa Mesa,Orange,CA,92626,92,175,2,0,0,0,0,0,20,N,0,35
+Joseph,Cryer,Huntington Beach,Orange,CA,92647,92,29,1,1,44,1,0,0,51,Y,1,87
+Filiberto,Tawil,Los Angeles,Los Angeles,CA,90016,90,28,1,1,31,1,70,2,36,Y,1,87
+Raul,Upthegrove,La Mesa,San Diego,CA,91942,91,25,1,0,0,0,0,1,42,Y,1,67
+Olive,Matuszak,Cathedral City,Riverside,CA,92234,92,25,1,0,0,1,0,1,34,Y,1,58
+Justine,Ferrario,Pomona,Los Angeles,CA,91768,91,90,1,0,0,1,0,0,73,N,0,39
+Tarra,Nachor,San Francisco,San Francisco,CA,94104,94,100,1,0,0,0,0,1,49,Y,1,99
+Louvenia,Beech,Beverly Hills,Los Angeles,CA,90210,90,51,2,1,84,2,0,0,57,N,0,85
+Vincenza,Zepp,El Cajon,San Diego,CA,92020,92,46,1,0,0,0,0,0,19,N,0,49
+Venita,Maillard,Anaheim,Orange,CA,92801,92,63,1,1,2,1,0,0,73,Y,1,35
+Wynell,Dorshorst,Pacifica,San Mateo,CA,94044,94,19,1,0,0,0,49,1,26,Y,1,54
+Gayla,Schnitzler,Hayward,Alameda,CA,94545,94,100,1,0,0,0,0,1,70,Y,1,64
+Mitsue,Scipione,Oroville,Butte,CA,95965,95,51,2,1,78,1,131,1,42,Y,1,81
+Lizbeth,Kohl,Gardena,Los Angeles,CA,90248,90,17,1,0,0,1,0,0,40,N,0,57
+Brett,Mccullan,La Mesa,San Diego,CA,91942,91,22,1,1,20,1,0,0,22,Y,1,62
+Staci,Schmaltz,Pasadena,Los Angeles,CA,91106,91,81,2,0,0,0,0,1,21,Y,1,34
+Merissa,Tomblin,Bellflower,Los Angeles,CA,90706,90,29,1,0,0,0,0,1,40,Y,1,80
+Trinidad,Mcrae,San Francisco,San Francisco,CA,94105,94,197,2,0,0,0,81,1,54,Y,1,41
+Mari,Lueckenbach,San Diego,San Diego,CA,92110,92,38,1,0,0,0,0,0,32,N,0,95
+Antione,Onofrio,San Bernardino,San Bernardino,CA,92410,92,77,2,1,2,1,0,0,42,Y,1,100
+Clorinda,Heimann,Escondido,San Diego,CA,92025,92,31,1,0,0,0,0,0,36,N,0,69
+Dick,Wenzinger,Gardena,Los Angeles,CA,90248,90,147,1,1,231,2,0,1,42,N,0,103
+Daniel,Perruzza,Santa Ana,Orange,CA,92705,92,20,1,1,11,1,0,1,51,N,0,47
+Cristal,Samara,Los Angeles,Los Angeles,CA,90021,90,16,1,0,0,0,0,1,31,N,0,59
+Rasheeda,Sayaphon,Saratoga,Santa Clara,CA,95070,95,20,1,0,0,1,0,0,42,Y,1,106
+Refugia,Jacobos,Hayward,Alameda,CA,94545,94,60,1,1,32,1,26,1,19,N,0,34
+Dorothy,Chesterfield,San Diego,San Diego,CA,92126,92,111,1,0,0,0,0,1,29,N,0,42
+Gail,Similton,Thousand Palms,Riverside,CA,92276,92,17,1,1,25,1,23,1,54,Y,1,93
+Thaddeus,Ankeny,Roseville,Placer,CA,95678,95,31,1,0,0,0,0,0,32,N,0,62
+Lai,Harabedian,Novato,Marin,CA,94945,94,40,1,0,0,0,0,1,42,Y,1,49
+Carmelina,Lindall,Littleton,Douglas,CO,80126,80,70,1,0,0,0,51,1,44,N,0,55
+Alease,Buemi,Boulder,Boulder,CO,80303,80,14,1,0,0,0,0,0,29,Y,1,74
+Howard,Paulas,Denver,Denver,CO,80231,80,51,1,0,0,0,0,0,66,Y,1,60
+Pamella,Fortino,Denver,Denver,CO,80212,80,175,1,0,0,0,0,1,31,Y,1,59
+Sherita,Saras,Colorado Springs,El Paso,CO,80937,80,57,2,0,0,1,0,0,63,N,0,87
+Jaclyn,Bachman,Colorado Springs,El Paso,CO,80919,80,90,1,0,0,0,0,0,66,Y,1,61
+Mitzie,Hudnall,Englewood,Arapahoe,CO,80110,80,100,2,0,0,0,0,0,73,N,0,71
+Virgie,Kiel,Denver,Denver,CO,80216,80,210,1,0,0,1,0,1,40,Y,1,68
+Yoko,Fishburne,New Haven,New Haven,CT,6511,65,131,3,1,74,2,0,0,66,N,0,69
+Harrison,Haufler,New Haven,New Haven,CT,6515,65,63,2,0,0,0,0,0,22,Y,1,32
+Ma,Layous,North Haven,New Haven,CT,6473,64,131,3,0,0,1,0,0,49,Y,1,105
+Zona,Colla,Norwalk,Fairfield,CT,6854,68,29,1,0,0,0,0,1,32,N,0,45
+Teddy,Pedrozo,Bridgeport,Fairfield,CT,6610,66,14,1,1,19,1,77,2,44,Y,1,79
+Alesia,Hixenbaugh,Washington,District of Columbia,DC,20001,20,197,1,0,0,1,77,2,70,Y,1,34
+Lavera,Perin,Miami,Miami-Dade,FL,33196,33,90,2,1,8,1,0,0,38,Y,1,57
+Arlette,Honeywell,Jacksonville,Duval,FL,32254,32,42,1,1,95,2,155,1,34,Y,1,79
+Tiffiny,Steffensmeier,Miami,Miami-Dade,FL,33133,33,16,1,0,0,0,0,1,23,Y,1,52
+Pamella,Schmierer,Homestead,Miami-Dade,FL,33030,33,106,2,0,0,0,0,0,63,N,0,71
+Lucina,Lary,Cocoa,Brevard,FL,32922,32,22,1,0,0,0,0,0,44,Y,1,53
+Hillary,Skulski,Homosassa,Citrus,FL,34448,34,70,2,1,156,3,0,0,63,Y,1,57
+Gracia,Melnyk,Jacksonville,Duval,FL,32216,32,21,1,0,0,0,0,1,34,Y,1,78
+Ashlyn,Pinilla,Opa Locka,Miami-Dade,FL,33054,33,40,1,0,0,0,0,0,60,N,0,94
+Marge,Limmel,Crestview,Okaloosa,FL,32536,32,21,1,0,0,0,0,0,77,N,0,41
+Avery,Steier,Orlando,Orange,FL,32803,32,131,3,1,213,1,0,0,26,N,0,34
+Ressie,Auffrey,Miami,Miami-Dade,FL,33134,33,117,2,0,0,0,0,0,49,N,0,65
+Lorrine,Worlds,Tampa,Hillsborough,FL,33614,33,95,2,1,169,1,0,0,77,N,0,49
+Martina,Staback,Orlando,Orange,FL,32822,32,147,3,0,0,0,0,0,26,N,0,61
+Jerry,Zurcher,Satellite Beach,Brevard,FL,32937,32,117,3,0,0,1,0,1,34,N,0,87
+Theodora,Restrepo,Miami,Miami-Dade,FL,33136,33,155,1,1,66,1,60,1,51,Y,1,50
+Jenelle,Regusters,Tampa,Hillsborough,FL,33619,33,57,2,0,0,1,51,2,81,Y,1,34
+Roosevelt,Hoffis,Hialeah,Miami-Dade,FL,33014,33,111,1,0,0,0,111,3,57,N,0,86
+Denise,Patak,Orlando,Orange,FL,32801,32,210,3,0,0,1,0,1,70,N,0,75
+Audry,Yaw,Brandon,Hillsborough,FL,33511,33,49,1,0,0,1,0,0,60,N,0,83
+Rikki,Nayar,Miami,Miami-Dade,FL,33155,33,100,1,1,124,3,0,0,29,Y,1,37
+Hoa,Sarao,Oak Hill,Volusia,FL,32759,32,60,2,0,0,1,54,2,31,N,0,80
+Joanna,Leinenbach,Lake Worth,Palm Beach,FL,33461,33,38,1,0,0,1,0,0,66,Y,1,47
+Jeanice,Claucherty,Miami,Miami-Dade,FL,33142,33,185,2,1,370,1,0,0,63,Y,1,51
+Sharika,Eanes,Orlando,Orange,FL,32806,32,95,1,1,2,1,124,3,60,N,0,56
+Nickolas,Juvera,Crystal River,Citrus,FL,34429,34,25,1,0,0,0,20,1,34,N,0,69
+Shawnda,Yori,Longwood,Seminole,FL,32750,32,20,1,0,0,0,0,0,49,Y,1,96
+Jovita,Oles,Daytona Beach,Volusia,FL,32114,32,210,3,0,0,1,40,1,60,N,0,62
+Chauncey,Motley,Orlando,Orange,FL,32804,32,81,1,0,0,0,0,1,28,Y,1,64
+Scarlet,Cartan,Albany,Dougherty,GA,31701,31,100,1,1,2,1,0,0,26,Y,1,33
+Belen,Strassner,Douglasville,Douglas,GA,30135,30,147,1,1,59,1,36,1,29,Y,1,65
+Sarah,Candlish,Atlanta,Fulton,GA,30328,30,100,1,1,246,1,111,3,81,Y,1,51
+Renea,Monterrubio,Atlanta,Fulton,GA,30328,30,147,2,0,0,1,0,0,44,N,0,112
+Leota,Ragel,Trion,Chattooga,GA,30753,30,95,2,0,0,1,0,1,46,Y,1,43
+Paris,Wide,Atlanta,Fulton,GA,30342,30,165,3,1,319,2,0,0,40,Y,1,42
+Izetta,Funnell,Atlanta,Dekalb,GA,30340,30,66,1,1,152,3,0,0,60,N,0,67
+Angella,Cetta,Honolulu,Honolulu,HI,96817,96,26,1,1,15,1,0,0,40,Y,1,90
+Brandon,Callaro,Honolulu,Honolulu,HI,96819,96,95,1,0,0,0,66,2,77,N,0,31
+Rolande,Spickerman,Pearl City,Honolulu,HI,96782,96,49,1,0,0,1,0,1,51,Y,1,80
+Novella,Degroot,Hilo,Hawaii,HI,96720,96,124,1,0,0,0,0,0,38,Y,1,80
+Glenn,Berray,Des Moines,Polk,IA,50315,50,139,1,0,0,1,0,1,31,Y,1,33
+Vallie,Mondella,Boise,Ada,ID,83707,83,86,1,0,0,0,0,0,20,Y,1,40
+Dorthy,Hidvegi,Boise,Ada,ID,83704,83,51,2,0,0,0,0,0,25,Y,1,33
+Winfred,Brucato,Moscow,Latah,ID,83843,83,34,1,0,0,1,20,1,44,Y,1,52
+Brittni,Gillaspie,Boise,Ada,ID,83709,83,44,1,0,0,0,0,0,19,N,0,36
+Mitsue,Tollner,Chicago,Cook,IL,60632,60,73,1,1,154,2,0,1,81,Y,1,26
+Fletcher,Flosi,Rockford,Winnebago,IL,61109,61,40,1,1,7,1,0,1,60,Y,1,76
+Viva,Toelkes,Chicago,Cook,IL,60647,60,54,1,1,74,1,46,1,38,Y,1,55
+Lai,Gato,Evanston,Cook,IL,60201,60,26,1,0,0,1,0,0,60,N,0,48
+Marti,Maybury,Chicago,Cook,IL,60638,60,73,2,0,0,0,0,0,34,N,0,91
+Valentin,Klimek,Chicago,Cook,IL,60604,60,23,1,0,0,0,66,2,28,Y,1,61
+Jennifer,Fallick,Wheeling,Cook,IL,60090,60,19,1,0,0,1,29,1,32,Y,1,80
+Carmela,Cookey,Chicago,Cook,IL,60623,60,73,2,0,0,0,0,0,34,N,0,39
+Daron,Dinos,Highland Park,Lake,IL,60035,60,66,1,1,1,1,0,1,19,Y,1,51
+Geoffrey,Acey,Palatine,Cook,IL,60067,60,185,2,1,102,1,0,1,34,N,0,38
+Weldon,Acuff,Arlington Heights,Cook,IL,60004,60,26,1,0,0,0,31,1,66,N,0,85
+Erick,Nievas,Chicago,Cook,IL,60624,60,28,1,0,0,0,0,1,44,Y,1,72
+Nichelle,Meteer,Chicago,Cook,IL,60657,60,131,3,0,0,1,22,1,19,Y,1,39
+Cassi,Wildfong,Rolling Meadows,Cook,IL,60008,60,18,1,0,0,1,0,0,23,Y,1,37
+Joni,Breland,Elk Grove Village,Cook,IL,60007,60,23,1,1,24,1,0,1,57,Y,1,46
+Malinda,Hochard,Indianapolis,Marion,IN,46202,46,23,1,1,51,1,21,1,20,Y,1,33
+Reita,Leto,Indianapolis,Marion,IN,46240,46,90,1,1,35,1,0,1,21,Y,1,43
+Carey,Dopico,Indianapolis,Marion,IN,46220,46,81,1,1,95,2,0,0,81,N,0,29
+Raymon,Calvaresi,Indianapolis,Marion,IN,46222,46,51,1,1,3,1,0,1,21,N,0,45
+Kristofer,Bennick,Bloomington,Monroe,IN,47404,47,40,1,1,41,1,0,1,26,Y,1,59
+Serina,Zagen,Fort Wayne,Allen,IN,46802,46,185,2,0,0,1,0,1,38,Y,1,48
+Alline,Jeanty,South Bend,St Joseph,IN,46601,46,46,1,0,0,0,0,0,66,Y,1,60
+Gary,Nunlee,Fortville,Hancock,IN,46040,46,100,2,0,0,1,0,0,25,Y,1,52
+Raylene,Kampa,Elkhart,Elkhart,IN,46514,46,29,1,0,0,0,0,0,81,N,0,47
+Chanel,Caudy,Shawnee,Johnson,KS,66218,66,46,1,0,0,0,139,2,73,Y,1,34
+Kati,Rulapaugh,Abilene,Dickinson,KS,67410,67,22,1,1,24,1,0,0,19,N,0,60
+Dyan,Oldroyd,Overland Park,Johnson,KS,66204,66,124,3,1,300,1,42,1,70,Y,1,54
+Kimberlie,Duenas,Hays,Ellis,KS,67601,67,46,1,0,0,0,0,0,20,Y,1,51
+Carlee,Boulter,Abilene,Dickinson,KS,67410,67,70,2,1,52,2,0,0,23,N,0,71
+Stephane,Myricks,Burlington,Boone,KY,41005,41,165,2,1,207,1,0,0,49,N,0,92
+James,Butt,New Orleans,Orleans,LA,70116,70,185,3,0,0,0,131,2,28,N,0,68
+Solange,Shinko,Metairie,Jefferson,LA,70002,70,26,1,0,0,0,0,1,23,Y,1,30
+Arlene,Klusman,New Orleans,Orleans,LA,70112,70,38,1,0,0,1,0,0,22,Y,1,36
+Larae,Gudroe,Houma,Terrebonne,LA,70360,70,70,1,0,0,0,185,2,44,Y,1,89
+Willodean,Konopacki,Lafayette,Lafayette,LA,70506,70,124,1,0,0,0,0,1,44,N,0,43
+Terrilyn,Rodeigues,New Orleans,Orleans,LA,70130,70,40,1,1,86,2,0,0,54,Y,1,52
+Kayleigh,Lace,Lafayette,Lafayette,LA,70508,70,210,3,0,0,0,0,0,46,Y,1,79
+Jutta,Amyot,Broussard,Lafayette,LA,70518,70,31,1,1,55,1,0,0,22,N,0,26
+Cordelia,Storment,Lafayette,Lafayette,LA,70506,70,32,1,0,0,0,0,1,38,Y,1,96
+Jina,Briddick,Boston,Suffolk,MA,2128,21,40,1,0,0,0,0,0,20,N,0,29
+Donte,Kines,Worcester,Worcester,MA,1602,16,139,3,0,0,0,0,0,73,Y,1,67
+Oretha,Menter,Boston,Suffolk,MA,2210,22,81,2,0,0,0,0,0,66,N,0,37
+Beatriz,Corrington,Middleboro,Plymouth,MA,2346,23,17,1,1,20,1,0,0,46,Y,1,54
+Annabelle,Boord,Concord,Middlesex,MA,1742,17,49,1,1,41,1,54,1,31,N,0,50
+Nicolette,Brossart,Westborough,Worcester,MA,1581,15,100,1,0,0,1,0,0,40,Y,1,86
+Katina,Polidori,Wilmington,Middlesex,MA,1887,18,51,1,0,0,1,70,1,21,Y,1,57
+Lucy,Treston,Worcester,Worcester,MA,1602,16,16,1,0,0,1,0,0,32,N,0,60
+Corinne,Loder,North Attleboro,Bristol,MA,2760,27,31,1,1,27,1,0,0,54,Y,1,67
+Nobuko,Halsey,New Bedford,Bristol,MA,2745,27,22,1,0,0,0,0,0,26,Y,1,70
+Levi,Munis,Worcester,Worcester,MA,1603,16,46,1,1,0,0,197,2,28,N,0,61
+Luisa,Jurney,Cambridge,Middlesex,MA,2138,21,147,2,1,222,1,0,1,42,Y,1,113
+Kris,Marrier,Baltimore,Baltimore City,MD,21224,21,42,1,0,0,0,106,1,40,Y,1,37
+Ezekiel,Chui,Easton,Talbot,MD,21601,21,14,1,1,29,1,0,0,36,N,0,57
+Ilene,Eroman,Glen Burnie,Anne Arundel,MD,21061,21,25,1,0,0,1,0,0,40,Y,1,66
+Laurel,Reitler,Baltimore,Baltimore City,MD,21215,21,51,1,1,18,1,111,1,20,Y,1,52
+Glory,Kulzer,Owings Mills,Baltimore,MD,21117,21,42,1,1,13,1,21,1,23,N,0,39
+Fernanda,Jillson,Preston,Caroline,MD,21655,21,25,1,0,0,1,0,0,36,Y,1,43
+Sylvia,Cousey,Hampstead,Carroll,MD,21074,21,100,1,0,0,0,0,1,66,N,0,60
+Detra,Coyier,Aberdeen,Harford,MD,21001,21,21,1,0,0,0,0,0,54,Y,1,96
+Reena,Maisto,Salisbury,Wicomico,MD,21801,21,18,1,0,0,1,0,0,63,Y,1,89
+Loreta,Timenez,Clinton,Prince Georges,MD,20735,20,40,1,0,0,0,185,3,20,N,0,51
+Kaitlyn,Ogg,Baltimore,Baltimore City,MD,21230,21,21,1,1,13,1,0,0,81,Y,1,46
+Ernest,Syrop,Hyattsville,Prince Georges,MD,20785,20,81,1,1,5,1,0,0,57,N,0,97
+Lashaunda,Lizama,Hanover,Anne Arundel,MD,21076,21,185,2,1,5,1,77,1,77,N,0,39
+Elouise,Gwalthney,Bladensburg,Prince Georges,MD,20710,20,106,3,0,0,0,0,1,77,N,0,61
+Annelle,Tagala,Parkville,Baltimore,MD,21234,21,16,1,0,0,0,28,1,23,Y,1,26
+Eden,Jayson,Baltimore,Baltimore City,MD,21202,21,165,1,1,29,1,0,0,26,Y,1,77
+Izetta,Dewar,Baltimore,Baltimore City,MD,21217,21,31,1,1,33,1,0,0,36,N,0,76
+Jolanda,Hanafan,Bangor,Penobscot,ME,4401,44,210,2,1,210,1,0,1,54,Y,1,75
+Ceola,Setter,Warren,Knox,ME,4864,48,16,1,0,0,0,25,1,81,Y,1,24
+Goldie,Schirpke,Bangor,Penobscot,ME,4401,44,73,2,0,0,1,0,1,66,N,0,76
+Josephine,Darakjy,Brighton,Livingston,MI,48116,48,124,3,1,151,1,0,1,28,N,0,31
+Yuki,Whobrey,Taylor,Wayne,MI,48180,48,155,2,0,0,0,0,1,23,Y,1,69
+Beckie,Silvestrini,Dearborn,Wayne,MI,48126,48,40,1,0,0,0,0,0,63,Y,1,77
+Chaya,Malvin,Ann Arbor,Washtenaw,MI,48103,48,46,1,0,0,0,0,1,22,Y,1,62
+Deonna,Kippley,Southfield,Oakland,MI,48075,48,117,2,1,185,3,0,1,23,Y,1,60
+Judy,Aquas,Niles,Berrien,MI,49120,49,26,1,1,61,2,0,0,29,Y,1,81
+Ligia,Reiber,Lansing,Ingham,MI,48933,48,40,1,0,0,0,0,0,49,Y,1,86
+Cherry,Lietz,Waterford,Oakland,MI,48329,48,18,1,1,3,1,0,0,38,N,0,67
+Dulce,Labreche,Rochester,Oakland,MI,48307,48,31,1,0,0,0,0,0,29,N,0,76
+Markus,Lukasik,Sterling Heights,Macomb,MI,48310,48,77,2,0,0,0,0,0,25,Y,1,28
+Sharee,Maile,Muskegon,Muskegon,MI,49442,49,26,1,1,9,1,0,0,22,Y,1,41
+Vilma,Berlanga,Grand Rapids,Kent,MI,49546,49,124,1,1,216,3,0,0,19,N,0,23
+Quentin,Swayze,Milan,Monroe,MI,48160,48,197,3,1,224,1,0,0,19,N,0,47
+Kenneth,Grenet,East Lansing,Ingham,MI,48823,48,117,1,0,0,0,32,1,22,Y,1,51
+Fatima,Saylors,Hopkins,Hennepin,MN,55343,55,21,1,0,0,1,0,1,40,Y,1,97
+Cyndy,Goldammer,Burnsville,Dakota,MN,55337,55,70,1,0,0,1,0,0,44,Y,1,104
+Chantell,Maynerich,Saint Paul,Ramsey,MN,55101,55,19,1,1,46,1,0,0,70,Y,1,61
+Skye,Fillingim,Minneapolis,Hennepin,MN,55401,55,17,1,0,0,1,0,0,26,Y,1,53
+Matthew,Neither,Shakopee,Scott,MN,55379,55,26,1,0,0,0,0,0,51,Y,1,39
+Quentin,Birkner,Burnsville,Dakota,MN,55337,55,124,3,0,0,0,0,0,31,Y,1,81
+Rodolfo,Butzen,Northfield,Rice,MN,55057,55,66,1,0,0,0,0,0,81,Y,1,31
+Benedict,Sama,Saint Louis,Saint Louis City,MO,63104,63,131,3,0,0,1,0,0,29,Y,1,42
+Tresa,Sweely,Valley Park,Saint Louis,MO,63088,63,34,1,1,31,1,0,0,54,Y,1,73
+Kasandra,Semidey,Saint Louis,Saint Louis City,MO,63102,63,14,1,0,0,0,19,1,19,Y,1,36
+Diane,Devreese,Saint Joseph,Buchanan,MO,64504,64,147,1,0,0,1,0,1,36,Y,1,72
+Leonida,Gobern,Biloxi,Harrison,MS,39530,39,19,1,1,26,1,0,0,42,Y,1,82
+Paz,Sahagun,Meridian,Lauderdale,MS,39307,39,57,1,0,0,0,147,1,21,N,0,48
+Billye,Miro,Pearl,Rankin,MS,39208,39,100,1,0,0,1,0,1,28,Y,1,72
+Roslyn,Chavous,Jackson,Hinds,MS,39211,39,66,1,1,134,3,0,1,28,N,0,79
+Raina,Brachle,Butte,Silver Bow,MT,59701,59,77,1,0,0,0,0,1,60,N,0,64
+Johnetta,Abdallah,Chapel Hill,Orange,NC,27514,27,40,1,0,0,1,54,2,54,N,0,87
+Rosio,Cork,High Point,Guilford,NC,27263,27,40,1,0,0,1,0,0,23,Y,1,48
+Lezlie,Craghead,Smithfield,Johnston,NC,27577,27,77,2,0,0,1,0,0,63,Y,1,75
+Deandrea,Hughey,Burlington,Alamance,NC,27215,27,124,1,0,0,0,0,0,22,N,0,56
+Maile,Linahan,Greensboro,Guilford,NC,27409,27,40,1,0,0,1,139,1,60,N,0,99
+Lenna,Newville,Raleigh,Wake,NC,27601,27,38,1,0,0,0,0,0,29,Y,1,81
+Lonna,Diestel,Fayetteville,Cumberland,NC,28301,28,28,1,0,0,0,0,0,22,Y,1,40
+Nan,Koppinger,Greensboro,Guilford,NC,27401,27,185,3,1,232,3,95,2,26,N,0,44
+Lavonda,Hengel,Fargo,Cass,ND,58102,58,49,1,0,0,0,0,0,66,Y,1,37
+Colette,Kardas,Omaha,Douglas,NE,68124,68,57,2,0,0,0,73,2,20,Y,1,60
+Flo,Bookamer,Alliance,Box Butte,NE,69301,69,139,1,1,59,1,26,1,29,Y,1,57
+Dalene,Riden,Plaistow,Rockingham,NH,3865,38,23,1,0,0,1,0,0,73,N,0,40
+Art,Venere,Bridgeport,Gloucester,NJ,8014,80,70,2,0,0,1,63,1,40,Y,1,64
+Alisha,Slusarski,Middlesex,Middlesex,NJ,8846,88,185,1,0,0,1,0,0,46,Y,1,44
+Ernie,Stenseth,Ridgefield Park,Bergen,NJ,7660,76,117,1,0,0,0,57,1,42,N,0,53
+Albina,Glick,Dunellen,Middlesex,NJ,8812,88,19,1,0,0,0,0,0,32,Y,1,40
+Karl,Klonowski,Flemington,Hunterdon,NJ,8822,88,155,2,1,378,1,0,0,28,Y,1,41
+Jamal,Vanausdal,Monroe Township,Middlesex,NJ,8831,88,185,3,1,129,3,28,1,66,N,0,34
+Delisa,Crupi,Newark,Essex,NJ,7105,71,63,1,1,49,1,0,0,51,Y,1,92
+Elza,Lipke,Newark,Essex,NJ,7104,71,147,2,0,0,1,19,1,29,Y,1,75
+Rolland,Francescon,Paterson,Passaic,NJ,7501,75,20,1,0,0,1,32,1,28,Y,1,67
+Ty,Smith,Hackensack,Bergen,NJ,7601,76,23,1,0,0,0,106,3,49,N,0,45
+Talia,Riopelle,Orange,Essex,NJ,7050,70,175,3,1,423,2,22,1,19,N,0,36
+Van,Shire,Pittstown,Hunterdon,NJ,8867,88,90,2,0,0,0,0,1,36,Y,1,73
+Kimbery,Madarang,Rockaway,Morris,NJ,7866,78,66,2,0,0,1,0,0,73,Y,1,50
+Thurman,Manno,Absecon,Atlantic,NJ,8201,82,22,1,0,0,1,0,0,73,N,0,40
+Becky,Mirafuentes,Plainfield,Union,NJ,7062,70,165,1,1,370,2,0,0,40,N,0,57
+Cheryl,Haroldson,Atlantic City,Atlantic,NJ,8401,84,66,1,0,0,1,0,0,66,Y,1,86
+Lizette,Stem,Cherry Hill,Camden,NJ,8002,80,20,1,0,0,0,0,1,29,N,0,31
+Irma,Wolfgramm,Randolph,Morris,NJ,7869,78,28,1,1,6,1,0,0,54,Y,1,103
+Nelida,Sawchuk,Paramus,Bergen,NJ,7652,76,22,1,0,0,1,0,0,77,Y,1,51
+Junita,Brideau,Cedar Grove,Essex,NJ,7009,70,49,1,0,0,0,28,1,26,Y,1,67
+Merlyn,Lawler,Jersey City,Hudson,NJ,7304,73,36,1,0,0,0,0,1,20,Y,1,26
+Jettie,Mconnell,Bridgewater,Somerset,NJ,8807,88,14,1,1,28,1,0,0,36,N,0,98
+Candida,Corbley,Somerville,Somerset,NJ,8876,88,54,2,0,0,0,0,0,70,Y,1,79
+Felicidad,Poullion,Riverton,Burlington,NJ,8077,80,100,2,1,147,3,0,0,34,Y,1,51
+Eladia,Saulter,Ramsey,Bergen,NJ,7446,74,25,1,1,38,1,0,1,29,N,0,54
+An,Fritz,Atlantic City,Atlantic,NJ,8401,84,117,3,1,105,3,0,0,29,Y,1,57
+Portia,Stimmel,Bridgewater,Somerset,NJ,8807,88,18,1,1,19,1,0,1,31,Y,1,44
+Heike,Berganza,Little Falls,Passaic,NJ,7424,74,15,1,0,0,0,0,0,26,Y,1,64
+Carmen,Sweigard,Somerset,Somerset,NJ,8873,88,77,2,0,0,0,0,0,40,Y,1,61
+Yvonne,Tjepkema,Fairfield,Essex,NJ,7004,70,210,2,1,419,3,0,0,25,Y,1,70
+Erinn,Canlas,Livingston,Essex,NJ,7039,70,38,1,1,56,2,0,0,28,Y,1,48
+Helaine,Halter,Jersey City,Hudson,NJ,7304,73,131,2,1,263,3,0,0,70,Y,1,46
+Aja,Gehrett,Nutley,Essex,NJ,7110,71,18,1,1,23,1,0,0,73,N,0,62
+Leonora,Mauson,Passaic,Passaic,NJ,7055,70,210,2,0,0,1,0,0,38,N,0,97
+Pete,Dubaldi,Lyndhurst,Bergen,NJ,7071,70,51,2,1,126,1,0,1,38,N,0,40
+Truman,Feichtner,Bloomfield,Essex,NJ,7003,70,197,2,1,364,2,40,1,26,Y,1,44
+Tasia,Andreason,Kearny,Hudson,NJ,7032,70,106,3,0,0,0,22,1,28,N,0,49
+Arthur,Farrow,Englewood,Bergen,NJ,7631,76,210,2,1,472,1,0,0,23,N,0,68
+Lynelle,Auber,Newark,Essex,NJ,7104,71,26,1,0,0,0,0,0,49,N,0,113
+Golda,Kaniecki,Toms River,Ocean,NJ,8755,87,46,1,1,49,1,0,1,23,N,0,69
+Catarina,Gleich,Denville,Morris,NJ,7834,78,26,1,0,0,0,0,0,20,Y,1,34
+Selma,Husser,Jersey City,Hudson,NJ,7306,73,21,1,1,28,1,0,0,26,Y,1,60
+Shonda,Greenbush,Clifton,Passaic,NJ,7011,70,185,3,0,0,0,0,0,60,Y,1,46
+Cecil,Lapage,Union City,Hudson,NJ,7087,70,32,1,0,0,0,0,0,20,Y,1,34
+Adell,Lipkin,Whippany,Morris,NJ,7981,79,147,2,0,0,0,0,0,20,Y,1,26
+Nu,Mcnease,Harrison,Hudson,NJ,7029,70,139,1,1,335,3,0,1,57,Y,1,58
+Daniela,Comnick,Trenton,Mercer,NJ,8611,86,40,1,1,35,1,0,0,19,N,0,59
+Tegan,Arceo,Monroe Township,Middlesex,NJ,8831,88,57,2,1,111,3,0,0,66,Y,1,81
+Vi,Rentfro,Freehold,Monmouth,NJ,7728,77,36,1,0,0,0,117,2,42,N,0,95
+Alpha,Palaia,Cherry Hill,Camden,NJ,8003,80,63,2,1,78,1,0,0,57,Y,1,73
+Lili,Paskin,Kearny,Hudson,NJ,7032,70,51,2,0,0,1,0,0,21,Y,1,41
+Catalina,Tillotson,Margate City,Atlantic,NJ,8402,84,197,3,0,0,0,0,0,70,N,0,79
+Francine,Vocelka,Las Cruces,Dona Ana,NM,88011,88,95,1,1,234,2,0,0,19,Y,1,50
+Devorah,Chickering,Clovis,Curry,NM,88101,88,42,1,0,0,1,46,1,34,N,0,84
+Clay,Hoa,Reno,Washoe,NV,89502,89,42,1,1,22,1,0,0,32,Y,1,39
+Junita,Stoltzman,Carson City,Carson City,NV,89701,89,46,1,1,77,2,0,1,26,Y,1,37
+Abel,Maclead,Middle Island,Suffolk,NY,11953,11,90,1,1,165,2,0,1,21,N,0,53
+Maryann,Royster,Albany,Albany,NY,12204,12,185,1,0,0,0,19,1,25,N,0,57
+Willow,Kusko,New York,New York,NY,10011,10,18,1,0,0,0,46,1,21,Y,1,28
+Alishia,Sergi,New York,New York,NY,10025,10,63,2,0,0,0,0,1,73,N,0,59
+Jose,Stockham,New York,New York,NY,10011,10,70,1,0,0,0,95,2,49,N,0,55
+Brock,Bolognia,New York,New York,NY,10003,10,155,2,1,251,1,117,2,28,N,0,72
+Tonette,Wenner,Westbury,Nassau,NY,11590,11,73,2,0,0,0,0,1,21,Y,1,63
+Tawna,Buvens,New York,New York,NY,10009,10,16,1,1,10,1,0,0,34,N,0,55
+Moon,Parlato,Wellsville,Allegany,NY,14895,14,175,3,1,271,2,0,0,29,N,0,63
+Timothy,Mulqueen,Staten Island,Richmond,NY,10309,10,31,1,1,6,1,165,2,21,N,0,34
+Celeste,Korando,Lynbrook,Nassau,NY,11563,11,63,1,0,0,1,0,0,60,N,0,81
+Herman,Demesa,Troy,Rensselaer,NY,12180,12,210,1,1,496,2,0,0,20,Y,1,49
+Bok,Isaacs,Bronx,Bronx,NY,10468,10,197,2,1,432,1,32,1,54,Y,1,45
+Theola,Frey,Massapequa,Nassau,NY,11758,11,117,3,1,175,2,0,1,20,N,0,31
+Ozell,Shealy,New York,New York,NY,10002,10,49,1,1,2,1,95,1,51,N,0,56
+Yolando,Luczki,Syracuse,Onondaga,NY,13214,13,51,1,1,53,2,0,0,46,N,0,110
+Gregoria,Pawlowicz,Garden City,Nassau,NY,11530,11,28,1,1,50,1,0,1,42,Y,1,48
+Latrice,Tolfree,Ronkonkoma,Suffolk,NY,11779,11,155,1,0,0,1,0,0,34,Y,1,45
+Nana,Wrinkles,Mount Vernon,Westchester,NY,10553,10,124,1,0,0,1,0,0,54,N,0,92
+Layla,Springe,New York,New York,NY,10011,10,19,1,0,0,0,0,0,40,Y,1,59
+Lemuel,Latzke,Bohemia,Suffolk,NY,11716,11,210,1,1,471,1,0,0,46,N,0,85
+Helga,Fredicks,Buffalo,Erie,NY,14228,14,17,1,0,0,0,0,1,54,N,0,81
+Fausto,Agramonte,New York,New York,NY,10038,10,49,1,0,0,0,0,0,57,N,0,36
+Alaine,Bergesen,Yonkers,Westchester,NY,10701,10,38,1,0,0,0,0,1,40,Y,1,86
+Justine,Mugnolo,New York,New York,NY,10048,10,42,1,0,0,0,117,2,23,Y,1,48
+Gwenn,Suffield,Deer Park,Suffolk,NY,11729,11,155,2,0,0,0,0,0,70,N,0,32
+Rhea,Aredondo,Brooklyn,Kings,NY,11226,11,15,1,0,0,1,0,1,38,N,0,81
+Haydee,Denooyer,New York,New York,NY,10016,10,175,1,1,92,1,40,1,20,N,0,41
+Mirta,Mallett,New York,New York,NY,10004,10,197,1,0,0,0,0,0,44,N,0,109
+Barbra,Adkin,Brooklyn,Kings,NY,11230,11,106,3,0,0,0,0,0,73,N,0,57
+France,Buzick,Brooklyn,Kings,NY,11219,11,31,1,0,0,0,0,0,29,Y,1,70
+Derick,Dhamer,New York,New York,NY,10013,10,38,1,0,0,0,23,1,60,N,0,38
+Kirk,Herritt,Vestal,Broome,NY,13850,13,29,1,1,22,1,29,1,21,N,0,39
+Shalon,Shadrick,Brooklyn,Kings,NY,11223,11,14,1,1,10,1,0,0,63,Y,1,41
+Krissy,Rauser,Coram,Suffolk,NY,11727,11,26,1,0,0,0,0,0,38,N,0,66
+Sheron,Louissant,Long Island City,Queens,NY,11101,11,22,1,0,0,0,0,0,57,N,0,46
+Cyril,Daufeldt,New York,New York,NY,10013,10,38,1,1,63,1,0,0,29,Y,1,61
+Ciara,Ventura,Port Jervis,Orange,NY,12771,12,38,1,0,0,0,23,1,28,Y,1,47
+Mireya,Frerking,Pelham,Westchester,NY,10803,10,155,3,1,363,3,0,1,60,N,0,38
+Dean,Ketelsen,Hicksville,Nassau,NY,11801,11,46,1,0,0,0,0,0,73,N,0,50
+Janine,Rhoden,Astoria,Queens,NY,11103,11,32,1,1,1,1,0,1,73,N,0,44
+Elli,Mclaird,Utica,Oneida,NY,13501,13,29,1,0,0,0,165,2,38,N,0,40
+Leslie,Threets,Katonah,Westchester,NY,10536,10,28,1,1,1,1,0,0,38,Y,1,46
+Jess,Chaffins,New York,New York,NY,10016,10,16,1,0,0,0,0,1,70,Y,1,38
+Sharen,Bourbon,Syosset,Nassau,NY,11791,11,22,1,1,53,2,0,0,51,Y,1,85
+Gilma,Liukko,Garden City,Nassau,NY,11530,11,77,1,1,127,3,0,1,32,Y,1,39
+Donette,Foller,Hamilton,Butler,OH,45011,45,49,1,0,0,1,0,0,60,N,0,53
+Simona,Morasca,Ashland,Ashland,OH,44805,44,117,1,1,111,3,0,1,49,N,0,59
+Graciela,Ruta,Chagrin Falls,Geauga,OH,44023,44,20,1,1,8,1,0,0,77,Y,1,45
+Ammie,Corrio,Columbus,Franklin,OH,43215,43,38,1,1,56,1,117,1,19,Y,1,45
+Tamar,Hoogland,London,Madison,OH,43140,43,54,1,0,0,0,0,0,34,Y,1,36
+Lettie,Isenhower,Beachwood,Cuyahoga,OH,44122,44,14,1,1,17,1,0,1,77,Y,1,56
+Stephen,Emigh,Akron,Summit,OH,44302,44,28,1,0,0,0,0,0,20,N,0,25
+Melissa,Wiklund,Findlay,Hancock,OH,45840,45,36,1,1,49,1,147,3,77,Y,1,53
+Laticia,Merced,Cincinnati,Hamilton,OH,45203,45,42,1,0,0,1,0,0,32,Y,1,69
+Claribel,Varriano,Perrysburg,Wood,OH,43551,43,165,1,0,0,1,0,0,77,N,0,26
+Salena,Karpel,Canton,Stark,OH,44707,44,147,3,0,0,0,0,0,36,N,0,99
+Rickie,Plumer,Toledo,Lucas,OH,43613,43,73,1,0,0,0,51,2,49,N,0,38
+Buddy,Cloney,Strongsville,Cuyahoga,OH,44136,44,77,1,1,191,1,0,0,49,Y,1,109
+Kattie,Vonasek,Cleveland,Cuyahoga,OH,44103,44,20,1,1,22,1,0,1,49,Y,1,70
+Adelina,Nabours,Cleveland,Cuyahoga,OH,44103,44,22,1,1,17,1,0,0,42,N,0,37
+Lashawnda,Stuer,Toledo,Lucas,OH,43607,43,18,1,1,40,1,0,0,40,Y,1,94
+Roselle,Estell,Bucyrus,Crawford,OH,44820,44,19,1,0,0,0,0,0,34,Y,1,41
+Margart,Meisel,Cincinnati,Hamilton,OH,45251,45,86,2,0,0,0,0,0,28,Y,1,60
+Galen,Cantres,Brook Park,Cuyahoga,OH,44142,44,29,1,0,0,1,0,1,57,Y,1,101
+Gertude,Witten,Cincinnati,Hamilton,OH,45217,45,73,1,0,0,1,23,1,38,N,0,107
+Mollie,Mcdoniel,Bowling Green,Wood,OH,43402,43,117,2,1,68,1,77,1,31,Y,1,44
+Hubert,Walthall,Barberton,Summit,OH,44203,44,155,1,0,0,1,0,0,38,N,0,92
+Sylvie,Ryser,Tulsa,Tulsa,OK,74105,74,26,1,0,0,0,111,2,38,Y,1,38
+Youlanda,Schemmer,Prineville,Crook,OR,97754,97,165,2,1,236,3,28,1,57,N,0,77
+Twana,Felger,Portland,Washington,OR,97224,97,34,1,0,0,0,0,0,40,Y,1,47
+Nieves,Gotter,Portland,Multnomah,OR,97202,97,38,1,1,46,1,0,0,40,Y,1,36
+Carissa,Batman,Eugene,Lane,OR,97401,97,210,3,0,0,0,0,0,46,N,0,82
+Karan,Karpin,Beaverton,Washington,OR,97005,97,117,1,0,0,0,0,0,60,Y,1,48
+Andra,Scheyer,Salem,Marion,OR,97302,97,73,1,0,0,0,0,1,81,Y,1,42
+Minna,Amigon,Kulpsville,Montgomery,PA,19443,19,165,1,0,0,0,165,2,31,Y,1,50
+Bette,Nicka,Aston,Delaware,PA,19014,19,95,1,0,0,0,73,1,40,Y,1,80
+Blair,Malet,Philadelphia,Philadelphia,PA,19132,19,31,1,1,11,1,0,0,77,Y,1,37
+Marjory,Mastella,Wayne,Delaware,PA,19087,19,26,1,1,26,1,197,3,31,Y,1,54
+Amber,Monarrez,Jenkintown,Montgomery,PA,19046,19,28,1,0,0,0,139,1,40,Y,1,95
+Deeanna,Juhas,Huntingdon Valley,Montgomery,PA,19006,19,95,1,0,0,0,0,1,66,Y,1,46
+Elly,Morocco,Erie,Erie,PA,16502,16,29,1,1,27,1,0,1,63,Y,1,69
+Tyra,Shields,Philadelphia,Philadelphia,PA,19106,19,22,1,1,29,1,197,3,20,Y,1,47
+Edna,Miceli,Erie,Erie,PA,16502,16,31,1,0,0,0,0,0,66,Y,1,88
+Rory,Papasergi,Clarks Summit,Lackawanna,PA,18411,18,46,1,0,0,0,0,0,63,Y,1,85
+Dierdre,Yum,Philadelphia,Philadelphia,PA,19134,19,81,1,1,82,1,0,1,19,N,0,44
+Evangelina,Radde,Philadelphia,Philadelphia,PA,19123,19,77,1,1,48,1,0,1,31,Y,1,58
+Teri,Ennaco,Hazleton,Luzerne,PA,18201,18,95,1,0,0,0,0,0,57,N,0,101
+Ronny,Caiafa,Philadelphia,Philadelphia,PA,19103,19,14,1,1,29,1,0,1,60,Y,1,84
+Franklyn,Emard,Philadelphia,Philadelphia,PA,19103,19,63,1,1,79,1,185,1,66,Y,1,40
+Freeman,Gochal,Coatesville,Chester,PA,19320,19,175,1,0,0,0,0,0,31,Y,1,67
+Vincent,Meinerding,Philadelphia,Philadelphia,PA,19143,19,34,1,1,5,1,0,1,31,N,0,71
+My,Rantanen,Richboro,Bucks,PA,18954,18,155,3,0,0,0,0,0,60,N,0,58
+Garry,Keetch,Southampton,Bucks,PA,18966,18,175,2,1,151,2,26,1,26,Y,1,74
+Felix,Hirpara,Denver,Lancaster,PA,17517,17,131,1,0,0,0,0,0,46,Y,1,39
+Fabiola,Hauenstein,York,York,PA,17404,17,16,1,0,0,0,0,0,63,N,0,82
+Jesusita,Flister,Lancaster,Lancaster,PA,17601,17,165,3,1,137,2,0,1,42,Y,1,57
+Jennie,Drymon,Scranton,Lackawanna,PA,18509,18,29,1,0,0,1,0,0,63,N,0,58
+Dalene,Schoeneck,Philadelphia,Philadelphia,PA,19102,19,42,1,0,0,0,0,0,42,N,0,116
+Lashandra,Klang,King of Prussia,Montgomery,PA,19406,19,57,1,1,99,2,0,1,81,Y,1,46
+Ahmed,Angalich,Harrisburg,Dauphin,PA,17110,17,100,2,1,195,3,0,0,31,N,0,69
+Britt,Galam,Hatfield,Montgomery,PA,19440,19,63,2,0,0,0,0,0,77,N,0,47
+Jacqueline,Rowling,Erie,Erie,PA,16501,16,131,1,1,74,1,0,0,36,Y,1,69
+Loren,Asar,Old Forge,Lackawanna,PA,18518,18,57,1,0,0,1,0,0,19,N,0,29
+Delmy,Ahle,Providence,Providence,RI,2909,29,57,2,0,0,1,0,0,34,Y,1,77
+Blondell,Pugh,Providence,Providence,RI,2904,29,38,1,0,0,0,0,0,32,N,0,72
+Hermila,Thyberg,Providence,Providence,RI,2903,29,155,1,1,224,3,0,1,40,Y,1,73
+Caitlin,Julia,Johnston,Providence,RI,2919,29,90,1,1,210,1,57,1,63,N,0,45
+Lawrence,Lorens,Providence,Providence,RI,2906,29,117,1,0,0,1,73,2,40,Y,1,76
+Sabra,Uyetake,Columbia,Richland,SC,29201,29,175,3,0,0,0,0,0,29,Y,1,49
+Eun,Coody,Spartanburg,Spartanburg,SC,29301,29,32,1,0,0,1,0,0,51,Y,1,48
+Jade,Farrar,Columbia,Richland,SC,29201,29,23,1,1,28,1,0,0,60,Y,1,65
+Sage,Wieser,Sioux Falls,Minnehaha,SD,57105,57,66,1,0,0,0,0,0,36,Y,1,36
+Meaghan,Garufi,Mc Minnville,Warren,TN,37110,37,117,3,0,0,0,0,1,44,N,0,80
+Lorrie,Nestle,Tullahoma,Coffee,TN,37388,37,31,1,0,0,0,0,1,25,Y,1,63
+Jesusa,Shin,Tullahoma,Coffee,TN,37388,37,16,1,0,0,0,0,1,34,Y,1,80
+Audra,Kohnert,Nashville,Davidson,TN,37211,37,77,2,1,186,3,0,1,63,Y,1,84
+Casie,Good,Nashville,Davidson,TN,37211,37,40,1,0,0,0,0,0,29,Y,1,79
+Linn,Paa,Memphis,Shelby,TN,38112,38,23,1,0,0,0,0,1,81,Y,1,24
+Glenna,Slayton,Memphis,Shelby,TN,38118,38,139,2,0,0,1,0,0,66,Y,1,73
+Bernardine,Rodefer,Memphis,Shelby,TN,38112,38,22,1,0,0,1,46,1,66,Y,1,82
+Caprice,Suell,Nashville,Davidson,TN,37211,37,95,2,0,0,1,0,1,25,N,0,42
+Josphine,Villanueva,Moss,Clay,TN,38575,38,117,1,0,0,0,0,0,46,N,0,113
+Cammy,Albares,Laredo,Webb,TX,78045,78,42,1,1,83,2,0,1,25,Y,1,61
+Willard,Kolmetz,Irving,Dallas,TX,75062,75,49,1,1,61,1,147,1,23,Y,1,44
+Bernardo,Figeroa,Conroe,Montgomery,TX,77301,77,32,1,1,31,1,0,0,73,N,0,64
+Valentine,Gillian,San Antonio,Bexar,TX,78204,78,49,1,1,54,1,0,0,49,N,0,100
+Cecily,Hollack,Austin,Travis,TX,78731,78,18,1,1,43,1,90,1,34,Y,1,56
+Myra,Munns,Euless,Tarrant,TX,76040,76,34,1,0,0,0,0,1,25,Y,1,60
+Danica,Bruschke,Waco,McLennan,TX,76708,76,86,1,0,0,1,0,0,77,N,0,54
+Sue,Kownacki,Mesquite,Dallas,TX,75149,75,155,2,0,0,0,0,0,81,Y,1,44
+Leatha,Hagele,Dallas,Dallas,TX,75227,75,49,1,0,0,1,0,1,31,Y,1,75
+Bulah,Padilla,Waco,McLennan,TX,76707,76,86,1,0,0,0,0,1,19,Y,1,28
+Gearldine,Gellinger,Irving,Dallas,TX,75061,75,15,1,0,0,0,185,3,20,N,0,55
+Fannie,Lungren,Round Rock,Williamson,TX,78664,78,44,1,0,0,0,0,0,73,Y,1,58
+Barrett,Toyama,Kennedale,Tarrant,TX,76060,76,38,1,0,0,0,40,1,38,Y,1,83
+Rebecka,Gesick,Austin,Travis,TX,78754,78,90,1,0,0,0,0,1,54,N,0,79
+Frederica,Blunk,Dallas,Dallas,TX,75207,75,117,1,0,0,0,0,0,32,Y,1,87
+Tracey,Modzelewski,Conroe,Montgomery,TX,77301,77,15,1,1,8,1,0,0,25,Y,1,49
+Earleen,Mai,Dallas,Dallas,TX,75227,75,21,1,1,41,1,0,1,46,N,0,57
+Marvel,Raymo,College Station,Brazos,TX,77840,77,210,3,1,22,1,0,0,20,Y,1,36
+Alecia,Bubash,Wichita Falls,Wichita,TX,76301,76,28,1,1,67,2,0,0,40,N,0,78
+Cathrine,Pontoriero,Amarillo,Randall,TX,79109,79,155,2,0,0,0,0,1,38,N,0,50
+Kristeen,Turinetti,Arlington,Tarrant,TX,76013,76,26,1,1,63,2,0,1,38,N,0,59
+Amie,Perigo,Mesquite,Dallas,TX,75150,75,19,1,0,0,1,155,3,57,Y,1,67
+Lilli,Scriven,Abilene,Taylor,TX,79601,79,155,2,0,0,0,0,1,23,Y,1,59
+Whitley,Tomasulo,Fort Worth,Tarrant,TX,76107,76,44,1,0,0,0,0,1,51,Y,1,45
+Lorean,Martabano,San Antonio,Bexar,TX,78204,78,77,2,0,0,0,0,0,21,N,0,52
+Mariann,Bilden,Austin,Travis,TX,78753,78,57,1,0,0,0,0,1,20,Y,1,35
+Kristel,Ehmann,El Paso,El Paso,TX,79925,79,44,1,0,0,0,0,0,31,Y,1,44
+Xochitl,Discipio,Round Rock,Williamson,TX,78664,78,57,2,0,0,0,0,0,60,Y,1,66
+Annmarie,Castros,Conroe,Montgomery,TX,77301,77,155,2,1,6,1,0,0,77,Y,1,47
+Ruthann,Keener,Kerrville,Kerr,TX,78028,78,124,1,1,248,3,73,2,42,N,0,89
+Ryan,Harnos,Plano,Collin,TX,75075,75,31,1,0,0,0,0,0,25,Y,1,46
+Glory,Schieler,Abilene,Taylor,TX,79602,79,34,1,0,0,0,90,2,60,Y,1,47
+Lonny,Weglarz,Salt Lake City,Salt Lake,UT,84115,84,131,1,0,0,0,0,0,23,N,0,35
+Lisha,Centini,Mc Lean,Fairfax,VA,22102,22,49,1,0,0,0,0,0,38,Y,1,50
+Taryn,Moyd,Fairfax,Fairfax City,VA,22030,22,28,1,1,65,2,0,0,36,Y,1,72
+Salome,Lacovara,Richmond,Richmond City,VA,23219,23,117,3,0,0,1,0,0,29,Y,1,66
+Jerry,Dallen,Richmond,Richmond City,VA,23219,23,21,1,0,0,1,90,2,31,Y,1,71
+Lavonna,Wolny,Mc Lean,Fairfax,VA,22102,22,17,1,0,0,0,175,2,28,N,0,33
+Jolene,Ostolaza,Newport News,Newport News City,VA,23608,23,106,1,0,0,0,139,2,20,N,0,30
+Malcolm,Tromblay,Annandale,Fairfax,VA,22003,22,21,1,1,1,1,0,0,32,Y,1,41
+Glen,Bartolet,Vashon,King,WA,98070,98,42,1,0,0,0,0,0,31,N,0,55
+Alex,Loader,Tacoma,Pierce,WA,98409,98,95,2,0,0,1,0,0,31,Y,1,50
+Dottie,Hellickson,Seattle,King,WA,98133,98,70,2,0,0,0,210,3,25,Y,1,66
+Johnna,Engelberg,Bothell,Snohomish,WA,98021,98,49,1,0,0,0,51,2,54,Y,1,82
+Samira,Heintzman,Kent,King,WA,98032,98,20,1,0,0,1,0,1,63,Y,1,89
+Laurel,Pagliuca,Richland,Benton,WA,99352,99,26,1,1,53,1,0,1,77,N,0,40
+Ettie,Hoopengardner,Richland,Benton,WA,99352,99,57,1,0,0,0,19,1,70,Y,1,57
+Jani,Biddy,Seattle,King,WA,98104,98,139,1,0,0,1,36,1,63,Y,1,65
+Gladys,Rim,Milwaukee,Milwaukee,WI,53207,53,147,2,0,0,1,0,1,23,N,0,40
+Allene,Iturbide,Stevens Point,Portage,WI,54481,54,81,2,0,0,1,0,1,66,N,0,82
+Emerson,Bowley,Madison,Dane,WI,53711,53,100,1,0,0,0,0,0,81,N,0,52
+Maurine,Yglesias,Milwaukee,Milwaukee,WI,53214,53,147,3,0,0,0,0,0,19,Y,1,42
+Estrella,Samu,Beloit,Rock,WI,53511,53,34,1,1,38,1,0,0,29,Y,1,85
+Daren,Weirather,Milwaukee,Milwaukee,WI,53216,53,46,1,0,0,0,0,0,77,Y,1,51
+Virgina,Tegarden,Milwaukee,Milwaukee,WI,53226,53,124,2,0,0,0,0,0,21,Y,1,48
+Noah,Kalafatis,Milwaukee,Milwaukee,WI,53209,53,124,1,0,0,0,0,0,23,N,0,28
+Kate,Keneipp,Green Bay,Brown,WI,54301,54,23,1,1,44,1,26,1,63,N,0,49
+Cecilia,Colaizzo,Madison,Dane,WI,53717,53,46,1,0,0,0,0,0,73,N,0,67
+Janey,Gabisi,Madison,Dane,WI,53715,53,131,2,0,0,1,165,2,28,Y,1,37
+Natalie,Fern,Rock Springs,Sweetwater,WY,82901,82,34,1,0,0,0,0,0,22,Y,1,58
+Lauran,Burnard,Riverton,Fremont,WY,82501,82,21,1,0,0,0,106,2,29,Y,1,53
+Mona,Delasancha,Cheyenne,Laramie,WY,82001,82,51,1,0,0,0,0,1,28,N,0,34
